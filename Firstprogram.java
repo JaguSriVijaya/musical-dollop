@@ -5,6 +5,7 @@ Public class Firstprogram{
 		
 		void sam(){
 			System.out.printlin("Hello world");
+			int i=10;
 		}
 	}
 }
